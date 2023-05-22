@@ -1,3 +1,10 @@
+:root {
+  --clr-dark: #1f2937;
+  --clr-whitish: #e5e7eb;
+  --clr-white: #f9faf8;
+}
+
 body {
   font-family: "Roboto", sans-serif;
+  color: var(--clr-white);
 }
