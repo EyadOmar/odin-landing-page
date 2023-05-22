@@ -181,6 +181,9 @@ section {
 .one .boxes .cover {
   margin-bottom: 15px;
 }
+.one .boxes .cover img {
+  border-radius: 10px;
+}
 
 /* ************************************* */
 /* *************two Section*************** */
