@@ -128,7 +128,7 @@ ul {
 }
 
 section {
-  padding-block: 30px 50px;
+  padding-block: 70px;
 }
 
 /* ************************************* */
@@ -179,4 +179,27 @@ section {
 }
 .one .boxes .cover {
   margin-bottom: 15px;
+}
+
+/* ************************************* */
+/* *************two Section*************** */
+/* ************************************* */
+.two {
+  background-color: var(--clr-whitish);
+  color: black;
+  font-weight: lighter;
+  font-style: italic;
+  font-size: var(--fs-lg);
+}
+
+.two .container {
+  position: relative;
+}
+
+.two .container span {
+  position: absolute;
+  right: 20px;
+  bottom: 0;
+  font-weight: bold;
+  font-size: var(--fs-md);
 }
