@@ -2,6 +2,10 @@
   --clr-dark: #1f2937;
   --clr-whitish: #e5e7eb;
   --clr-white: #f9faf8;
+
+  --fs-md: 1.333rem;
+  --fs-lg: 2rem;
+  --fs-xlg: 2.667rem;
 }
 
 body {
